@@ -159,8 +159,10 @@ npm run lint       # Run ESLint
 
 ## 👤 Author
 
-**Sagar Pokhrel** **&**
-**Sulochana Pokhrel**
+** Developer - Sagar Pokhrel** 
+**LinkedIn: (https://www.linkedin.com/in/sagar-pokhrel-436608377/)**
+** Developer - Sulochana Pokhrel**
+**LinkdIn: (https://www.linkedin.com/in/sulochana-pokhrel-72701b347/)**
 
 
 ⭐ If you found this project useful, please give it a star on GitHub!
